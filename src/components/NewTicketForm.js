@@ -11,7 +11,7 @@ function NewTicketForm(){
         <input
           type='text'
           id='location'
-          placeholder='Location'/>
+          placeholder='Locationssssssss'/>
         <textarea
           id='issue'
           placeholder='Describe your issue.'/>
